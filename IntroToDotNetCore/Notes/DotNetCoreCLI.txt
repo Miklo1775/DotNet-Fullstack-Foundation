@@ -45,3 +45,8 @@ Intro to .NET CLI
  > Very performant.
  > Optimized for modern hardware.
  > Lightweight and modular, uses less resources thatn full .NET Framework.
+
+ --.NET CoreFX
+ > Foundational set of libraries that provides functionality of .NET Core applications.
+ > Libraries provides functionality such as file I/O, networking, and collections.
+ > Modular so developers can choose the libraries that are needed for the application.

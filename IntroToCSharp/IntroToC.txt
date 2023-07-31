@@ -1,0 +1,16 @@
+C# Code Execution
+
+Source code ==> C# Compiler translates into ==> Common Intermediate Code ==> After error checks ==> Intermediate Code(IL) ==> Common Language Runtime / Just-In-Time compilation ==> Machine Code
+
+Intro to C#
+
+> General purpose, high level programming languag that supports multiple programming paradigms such as OOP and Functional
+> Intended to be simple, modern, general purpose, object-oriented.
+> Intended for use in developing software components suitable for deployment in distributed environments.
+
+History of C#
+
+> Designed by Anders Hejisberg from Microsoft in 2000 and was approved as an standard by Ecma in 2002.
+> Introduced with the .NET Framework and Visual Studio and was closed source at the time.
+> 10 years later, Microsoft released Visual Studio Code, Roslyn, and .NET Platform, which are all open soruce, free, and cross-platform.
+

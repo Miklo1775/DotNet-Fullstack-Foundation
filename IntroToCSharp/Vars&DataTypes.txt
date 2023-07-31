@@ -1,0 +1,60 @@
+Variables and Data Types
+
+--Variables
+> A variable is a named storage location in computer memory that holds a value.
+> Variables are used to store and manipulate data in a program.
+> In C#, all the variables must be declared before they can be used. 
+> Basic unit of storage in a program.
+> Some values stored in a variable can be changed during program execution.
+> Syntax:
+	***
+	<data type> <variable name> = <value>;
+	***
+
+--Types of Variables
+> Local Variables -- block level vars
+> Instance or Non-Static Variables -- Class level
+> Static or Class Variables -- within object
+> Constant Variables -- cant be changed
+> ReadOnly Variables 
+
+--Data Types
+> Specify the type of data that a valid c# var can hold.
+> C# is a strongly typed language
+> We must declare the type of variable that indicates the kind of values it is going to store.
+Examples:
+	***
+	string stringVar = "Hello World!";
+	int intVar = 100;
+	float floatVar = 10.2f;
+	charVar = 'A';
+	bool boolVar = true;
+	decimal decimalVar = 10.34m;
+	***
+
+--3 Categories of Data Types
+> Value Data Types:
+	-Predefined Data Types {
+		Integer
+		Boolean
+		Float
+	}
+
+	-User Defined Data Types {
+		Enumerations
+		Struture
+	}
+
+> Pointer Data Types:
+	-Holds a memory address
+
+> Reference Data Types:
+	-Predefined Data Types {
+		Objects
+		Strings
+	}
+
+	-User Defined Data Types {
+		Classes
+		Interface
+	}

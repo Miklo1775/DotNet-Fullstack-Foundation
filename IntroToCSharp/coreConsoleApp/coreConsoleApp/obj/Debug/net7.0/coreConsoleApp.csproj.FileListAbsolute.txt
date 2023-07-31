@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\bin\Debug\net7.0\coreConsoleApp.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\bin\Debug\net7.0\coreConsoleApp.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\bin\Debug\net7.0\coreConsoleApp.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\bin\Debug\net7.0\coreConsoleApp.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\bin\Debug\net7.0\coreConsoleApp.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\refint\coreConsoleApp.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\coreConsoleApp.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\IntroToCSharp\coreConsoleApp\coreConsoleApp\obj\Debug\net7.0\ref\coreConsoleApp.dll
