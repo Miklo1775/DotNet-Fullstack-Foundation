@@ -1,4 +1,5 @@
 Intro to .NET CLI
+
  > .NET CLI is a new cross-platform tool.
  > CLI tool is used for creating, restoring packages, building, and publishing .NET apps.
  > Supports installation of packages.
@@ -6,3 +7,41 @@ Intro to .NET CLI
  > It supports various commands that can be used to create, build, and run .NET Core projects.
  > It can also be used to manage dependancies, including adding, removing, and updating packages.
  > Easily automated and integrated into build and deployment pipelines.
+
+ .NET CLI Command Structure
+
+ ***
+ dotnet <command> <argument> <option>
+ ***
+
+ > All DOTNET CLI commands start with the dotnet driver name.
+ > the driver starts the execution of the specified command.
+ > After specifying the driver, we supply the command(also known as the verb) to perform the action.
+ > After the verb or command, we can also set options.
+
+ .NET CLI Commands
+
+ > dotnet --help lists all commands tool offers.
+
+ .NET Core Platform
+
+ --Composed of:
+ > CLI Tools: Tools for development and deployment.
+ > Roslyn: Language Compiler for C# and Visual Basic.
+ > CoreFX: Set of framework libraries.
+ > CoreCLR: A JIT based CLR(Command Language Runtime).
+
+ --.NET Core Language Compilers
+ > The compilers included in .NET Core are responsible for translating code.
+ > Translated ccodes written in C#, F#, and Visual Basic into Intermediate Language(IL) code.
+ > IL is a low-level language that can be executed by .NET runtime.
+ > Roslyn language compiler is used for C# and Visual Basic.
+ > F# Compiler (fsc.exe) is used to compiler F# code.
+
+ --.NET Core CLR
+ > CoreCLR is the .NET runtime (executing engine) used in .NET Core.
+ > It is responsible for compiling and executing the .NET Core applications.
+ > Provides features like garbage collection, just-in-time(JIT) compilation, and exception handling.
+ > Very performant.
+ > Optimized for modern hardware.
+ > Lightweight and modular, uses less resources thatn full .NET Framework.
