@@ -1,0 +1,31 @@
+Introduction To .NET Core
+
+> .NET Core is a subset of the .NET Framework and is an open source, cross platform that runs on Windows, MacOS, and Linux.
+> Introduce by Microsoft in 2016 and succeeds .NET Framework.
+> Written from scratch to make it modular and fast.
+> Core features to run basic .NET core apps.
+> Includes as rich set of APIs and framework, such as ASP.NET Core for building web applications.
+
+Why .NET Core?
+
+> Cross platform which means you can write applications to be used on multiple platforms.
+> .NET Core was built to be performant.
+> Designed to work well in cloud environments.
+> Provides developers with modern development tools and techniques such as support for asynchronous programming and also its ability to be used on lightweight IDEs like VS Code.
+
+.NET Core vs .NET Framework
+
+**.NET Core**
+> Completely open source.
+> Compatible with Windows, MacOS, and Linux.
+> Does not support desktop applications.
+> Highly performant and high scalability.
+> Does not have features like Code Access Securtiy.
+
+**.NET Framework**
+> Only certain components are open source.
+> Compatible with Windows.
+> Supports desktop and web applications.
+> Less effective compared to .NET Core.
+> Has Code Access Security.
+

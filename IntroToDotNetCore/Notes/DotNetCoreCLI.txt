@@ -1,0 +1,8 @@
+Intro to .NET CLI
+ > .NET CLI is a new cross-platform tool.
+ > CLI tool is used for creating, restoring packages, building, and publishing .NET apps.
+ > Supports installation of packages.
+ > Supports various commands that can be used to create, build and run .NET Core Projects.
+ > It supports various commands that can be used to create, build, and run .NET Core projects.
+ > It can also be used to manage dependancies, including adding, removing, and updating packages.
+ > Easily automated and integrated into build and deployment pipelines.
