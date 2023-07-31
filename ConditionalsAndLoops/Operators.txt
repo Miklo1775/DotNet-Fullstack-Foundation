@@ -1,0 +1,20 @@
+Operators and Operators Precedence
+
+--Operators
+> Symbols that used to perform operations on operands.
+> Operands may be vars and/or constants.
+> Operators are used to manipulate var and vals in a program.
+> C# supports a number of operators that are classifies based on types of operations they perform.
+
+--Types of Operators
+> Unary Operators:
+	- Operators that perform an operation on a single operand.
+	Examples: ++, --
+
+> Binary Operators:
+	- Operators that operates on two operands to produce a new value.
+	Examples: a + c, a - c, a / c, a && c, a || c, a > c
+
+> Ternary Operators: 
+	- Operator that checks a condition and returns an output based on condition.
+	Example: i > 1 ? "Hello" : "Good bye"
