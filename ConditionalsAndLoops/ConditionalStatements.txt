@@ -1,0 +1,13 @@
+Conditional Statements
+
+--What are Conditional Statements?
+>  Based on certain conditions and generate decisions accordingly.
+> Code that can be executed by "decision statements".
+> These conditions have some specific "boolean expression".
+> The boolean expression in these statements generates a true or false value.
+
+--Types of Conditonal Statements
+> if statement
+> if-else statement
+> if-else-if or Ladder statement
+> Switch statement

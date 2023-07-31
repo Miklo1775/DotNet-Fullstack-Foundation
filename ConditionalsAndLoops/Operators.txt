@@ -15,6 +15,7 @@ Operators and Operators Precedence
 	- Operators that operates on two operands to produce a new value.
 	Examples: a + c, a - c, a / c, a && c, a || c, a > c
 
-> Ternary Operators: 
+> Ternary(Conditional) Operators: 
 	- Operator that checks a condition and returns an output based on condition.
 	Example: i > 1 ? "Hello" : "Good bye"
+
