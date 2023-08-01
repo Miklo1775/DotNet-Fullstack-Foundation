@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\bin\Debug\net7.0\workingWithArrays.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\bin\Debug\net7.0\workingWithArrays.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\bin\Debug\net7.0\workingWithArrays.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\bin\Debug\net7.0\workingWithArrays.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\bin\Debug\net7.0\workingWithArrays.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\refint\workingWithArrays.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\workingWithArrays.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithArrays\obj\Debug\net7.0\ref\workingWithArrays.dll

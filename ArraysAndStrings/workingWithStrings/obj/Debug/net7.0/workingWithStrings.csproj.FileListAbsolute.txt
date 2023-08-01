@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\bin\Debug\net7.0\workingWithStrings.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\bin\Debug\net7.0\workingWithStrings.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\bin\Debug\net7.0\workingWithStrings.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\bin\Debug\net7.0\workingWithStrings.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\bin\Debug\net7.0\workingWithStrings.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\refint\workingWithStrings.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\workingWithStrings.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\ArraysAndStrings\workingWithStrings\obj\Debug\net7.0\ref\workingWithStrings.dll

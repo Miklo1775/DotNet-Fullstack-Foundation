@@ -1,0 +1,70 @@
+Arrays and Strings
+
+--Arrays
+> A collection of elements of same data type that are stored in contiguous memory locations.
+> Each element in an array is identified by its index or  position within the array, starting from 0.
+> Arrays are declared using square brackets [] after the type name, followed by the name of the array.
+> Example: int[] numArray = new int[3];
+
+--Advantages of Arrays
+> Code optimizations
+> Random Access
+> Easy to traverse data
+> Easy to manipulate data
+> Easy to sort data
+
+--3 types of Arrays
+> Single Dimensional Array
+> Multidimensional Array
+> Jagged Array
+
+--Single Dimensional Array
+> Simplest type of array that contains only one row for storing data.
+> Single set of square brackets.
+> Example:
+	----//Declare array//----
+		int[] age;
+
+	----//Allocate memory for array//----
+		age = new int[5];
+	----//Can be written in one line//----
+		int[] age = new int[5];
+
+--Multidimensional Array
+> Contains more than one row to store data on it.
+> Known as a rectangular array because it has the same length of each row.
+> Can be 2 dimensions, 3 dimensions, and even more.
+> Can contain more than 1 comman within the single square brackets.
+> To store and access the data from a multidimensional array, you need to use a nested loop.
+> Example:
+	----//An array with 3 elements//----
+	---//1 element is an array with 3 more elements//----
+		int[,] multiArray = new int[3,3];
+
+--Jagged Array
+> An array of arrays, where each subarray can have a different length.
+> Useful when you need to store a collection of arrays of different sizes.
+> Example:
+		int[][] myArray = new int[3][];
+		myArray[0] = new int[2]{1,2};
+		myArray[1] = new int[3] {3, 4, 5};
+		myArray[2] = new int[4] {6, 7, 8, 9};
+
+--Strings
+> String is an object of System.String class that represents a sequence of characters.
+> Example: "hello" is a sequence of characters 'h', 'e', 'l', 'l', 'o'.
+> Some methods that can be performed on strings include but are not limited to concatenation, comparison, getting substrings, search in existing strings, trimming whitespace, and replacing parts of a string.
+> In C#, string is an alias for System.String.
+> string is equivalent to String.
+> Example:
+		****
+		string name = "Victor Flores";
+		****
+
+--Types of Strings
+> Immutable String ==> System.String class.
+-----When 'modifying' an existing string, what we are actually doing is creating a new instance of that System.String.
+
+> Mutable String ==> String Builder class.
+----- With Mutable strings, we can change the value at the memory address instead of creating a new instance, which in turn doesn't affect the performance as much in an application.
+
