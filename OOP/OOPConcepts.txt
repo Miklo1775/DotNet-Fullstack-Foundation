@@ -1,0 +1,16 @@
+OOP Concepts
+
+--What is Object Oriented Programming?
+> C# supports OOP paradigm.
+> OOP provides a clear, modular structure of programs.
+> Codes can be reused without any redundancy.
+> Modeled after real worl entities.
+> The aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access the data except that function.
+
+--OOP Concepts
+> Classes
+> Objects
+> Encapsulation
+> Abstraction
+> Inheritance
+> Polymorphism

@@ -1,0 +1,24 @@
+Inheritance
+
+--What is Inheritance?
+> In C#, its possible to inherit fields and methods from one class to another.
+> Allows us to define a new class based on an existing class.
+> The new class inherits the properties and methods of the existing class and can also add its add new properties and methdos of its own.
+> This promotes code reuseability, simplifies code maintenance, and cleaner code organization.
+
+--Types of Inheritance
+> Single Inheritance:
+	*Base/Super class is inherited by the derived class.
+	*Derived class inherits properties and methods of Super class.
+> Hierarchical Inheritance:
+	*Base/Super class is inherited by 2 or more derived classes.
+	*The derived classes inherit properties and methods from the Super class.
+	*The derived classes don't share a relationship with each other.
+> Multilevel and Hybrid Inheritance:
+	*Base/Super class is inherited by an intermediary class.
+	*Intermediary class inherits properties and methods from Super class.
+	*Intermediary class is inherited by other derived classes.
+	*Derived classes inherit properties and methods from both intermediary class and Super class.
+> Multiple Inheritance:
+	*Derived class inherits from 2 or more parent classes.
+	*C# has no functionality on its own to achieve this, but we can use interfaces to achieve this effect.

@@ -1,0 +1,32 @@
+Encapsulation and Abstraction
+
+--Encapsulation
+> Encapsulation is defined as wrapping up of data in a single unit.
+> Mechanism that binds together code and data it manipulates.
+> Encapsulation is a protective shield that prevents the data from being accessed by the code outside this protective shield.
+> In encapsulation, data in a class is hidden from other classes, which is why its also know as data-hiding.
+> Encapsulation can be achieved by declaring all the variables in the class as private.
+
+--Abstraction
+> Data Abstraction is the property by virtue of which only essential details are exhibited to the user.
+> Can be achieved with either abstract classes or interfaces.
+> abstract keyword is used for classes and methods:
+-------Abstract class:
+		*It is a restricted class that cannot be used to create objects( to access it, it must be inherited from another class).
+-------Abstract method:
+		*It can only be used in an abstract class, and it does not have a body.
+		*The body is provided by the derived class (inherited from).
+
+--Access Modifiers
+> Specifiers or keywords that are used to specify accessibility or scope of variables and functions within a class.
+> Public is not restricted while Private is the most restricted.
+
+--Types of Access Modifiers
+> public => accessible from other namespaces.
+> private => access is limited to containing type.
+> protected => access is limited to containing class or derived class.
+> internal => can be used only within the same namespace.
+> protected internal
+
+
+

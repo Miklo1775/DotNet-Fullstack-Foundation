@@ -1,0 +1,23 @@
+Classes and Objects
+
+--Classes
+> A blueprint or template for creating objects.
+> Defines properties and behavior of an object.
+> Can include fields, properties, methods, and events.
+> In object creating, a class gets its own set of data and behavior based on properties and methods defined in the class.
+> Example:
+		AccessSpecifier class NameOfClass {
+				// Member variables
+				// Member functions
+		}
+
+--Objects
+> An object is a dynamically created instance of the class.
+> Created at runtime so it can be called a runtime entity.
+> Members of the class can be accessed using the object.
+> Object definition starts with name of class followed by name of object.
+> To instantiate a class, we use the new keyword or operator.
+> Syntax:
+		****
+		NameOfClass NameOfObject = new NameOfClass();
+		****

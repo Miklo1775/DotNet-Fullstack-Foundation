@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\bin\Debug\net7.0\classesObjects.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\bin\Debug\net7.0\classesObjects.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\bin\Debug\net7.0\classesObjects.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\bin\Debug\net7.0\classesObjects.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\bin\Debug\net7.0\classesObjects.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\refint\classesObjects.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\classesObjects.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\OOP\classesObjects\obj\Debug\net7.0\ref\classesObjects.dll
