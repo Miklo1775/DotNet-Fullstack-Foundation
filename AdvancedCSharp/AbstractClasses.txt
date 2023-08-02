@@ -1,0 +1,27 @@
+Abstract Classes
+
+--What is an Abstract Class?
+> A class that CANNOT be instantiated.
+> Serves a base class for other classes to inherit from.
+> Defines a common set of properties and methods that a derived class should have.
+> The abstract keyword is used to define an abstract class.
+> An abstract class can have both abstract methods and non-abstract methods.
+> Example:
+	****
+		abstract class Test
+		{
+			//abstract method has no body
+			public abstract void abstractMethod();
+
+			public void nonAbstractMethod(){
+				Console.WriteLine("Nonabstract method has body");
+			}
+		}
+	****
+
+--Abstract Methods
+> A method that doesn't have a body.
+> The abstract keyword is used to indicate an abstract method.
+> A method that is declared but not defined in the base class, but is left to the derived class to implement.
+> Can only be declared in an abstract class.
+> Example: See above example of abstract class.

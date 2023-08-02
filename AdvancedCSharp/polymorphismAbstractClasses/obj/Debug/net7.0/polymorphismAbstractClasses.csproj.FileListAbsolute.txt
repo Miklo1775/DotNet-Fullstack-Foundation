@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\bin\Debug\net7.0\polymorphismAbstractClasses.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\bin\Debug\net7.0\polymorphismAbstractClasses.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\bin\Debug\net7.0\polymorphismAbstractClasses.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\bin\Debug\net7.0\polymorphismAbstractClasses.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\bin\Debug\net7.0\polymorphismAbstractClasses.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\refint\polymorphismAbstractClasses.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\polymorphismAbstractClasses.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\polymorphismAbstractClasses\obj\Debug\net7.0\ref\polymorphismAbstractClasses.dll

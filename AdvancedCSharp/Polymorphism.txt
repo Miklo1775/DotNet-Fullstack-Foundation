@@ -1,0 +1,68 @@
+Polymorphism
+
+--What is Polymorphism?
+> Greek word that means multiple forms or shapes.
+> Use polymorphism if you want to have multiples forms of one or more methods of a class with the same name.
+> In C#, Polymorphism can be achieved in a couple of ways:
+		*Compile-time Polymorphism/Static Polymorphism
+		*Runtime Polymorphism/Dynamic Polymorphism
+> When a task if performed in different ways, that's Polymorphism.
+
+--Compile-Time Polymorphism
+> Compiler identifies which method is being called at compile time.
+> Can be achieve in a couple of ways in C#:
+		*Method Overloading
+		*Constructor Overloading
+
+--Method Overloading
+> We create methods with the same name in a class if they have:
+		*Different number of parameters.
+		*Different types of parameters.
+> Method overloading is also known as early binding or static binding because which method to call is decided at compile time, earlier than runtime.
+> We can overload methods, constructors, and indexed properties.
+> The reason is because these members have parameters only.
+> Example:
+	****
+		class ConsolePrinter
+		{
+			public void Print(string str)
+			{
+				Console.WriteLine(str);
+			}
+
+			public void Print(string str1, string str2)
+			{
+				Console.WriteLine($"{str1} {str2}");
+			}
+
+			public void Print(string str1, string str2, string str3 )
+			{
+				Console.WriteLine($"{str1} {str2} {str3}");
+			}
+		}
+	****
+
+--Method Overriding
+> Derived class defines the same method as defined in its base class.
+> It is used to achieve runtime polymorphism.
+> Enables us to provide implementation of a method which is already provided by it's base class.
+> We need to use virtual keyword with base class method and override keyword with derived class method.
+> Examples:
+	****
+		class Animal
+		{ 
+			publiv virtual void MakeSound()
+			{
+				Console.WriteLine("This animal makes a sound.");
+			}
+		}
+
+		class Cat : Animal 
+		{
+			public override void MakeSound()
+			{
+				Console.WriteLine("The cat goes meow!");
+			}
+		}
+
+	****

@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ConditionalsAndLoops",
-    "\\IntroToCSharp",
-    "\\IntroToCSharp\\coreConsoleApp",
-    "\\IntroToCSharp\\coreConsoleApp\\coreConsoleApp",
-    "\\IntroToDotNetCore"
+    ""
   ],
-  "SelectedNode": "\\IntroToCSharp\\coreConsoleApp\\coreConsoleApp\\Program.cs",
+  "SelectedNode": "\\coreConsoleApp.sln",
   "PreviewInSolutionExplorer": false
 }

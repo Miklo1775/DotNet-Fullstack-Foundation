@@ -1,0 +1,26 @@
+Interfaces
+
+--What is an Interface?
+> Fully unimplemented class.
+> Similar to abstract classes, however, unlike an abstract class, all methods of an interface are public and abstract.
+> We use the interface keyword to create an interface.
+> All members of an interface are public by default.
+> Cannot use access modifiers inside an interface.
+> An interface doesn't allow fields.
+> Example:
+	****
+		interface Rectangle {
+			void calculateArea();
+		}
+	****
+> Interfaces specify what a class must do and not how.
+> Cannot have private members.
+> Cannot have fields because they represent a particular implementation of data.
+> Interfaces allow multiple inheritance whereas classes do not.
+
+--Advantages of Interfaces
+> Can achieve loose coupling--or seperations of concerns.
+> Used to achieve total abstraction.
+> Used to achieve component based programming.
+> Used to achieve multiple inheritance.
+> Provides plug and plag architecture into applications.

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vic\\Desktop\\DotNet Fullstack Foundation\\IntroToCSharp\\coreConsoleApp\\coreConsoleApp\\coreConsoleApp.csproj",
-      "projectName": "coreConsoleApp",
-      "projectPath": "C:\\Users\\Vic\\Desktop\\DotNet Fullstack Foundation\\IntroToCSharp\\coreConsoleApp\\coreConsoleApp\\coreConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Vic\\Desktop\\DotNet Fullstack Foundation\\AdvancedCSharp\\polymorphismAbstractClasses\\polymorphismAbstractClasses.csproj",
+      "projectName": "polymorphismAbstractClasses",
+      "projectPath": "C:\\Users\\Vic\\Desktop\\DotNet Fullstack Foundation\\AdvancedCSharp\\polymorphismAbstractClasses\\polymorphismAbstractClasses.csproj",
       "packagesPath": "C:\\Users\\Vic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vic\\Desktop\\DotNet Fullstack Foundation\\IntroToCSharp\\coreConsoleApp\\coreConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Vic\\Desktop\\DotNet Fullstack Foundation\\AdvancedCSharp\\polymorphismAbstractClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -46,9 +46,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "default"
       }
     },
     "frameworks": {
@@ -70,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.6.23330.14\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
