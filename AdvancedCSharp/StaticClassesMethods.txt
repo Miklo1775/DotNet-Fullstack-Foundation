@@ -1,0 +1,44 @@
+Static Classes and Static Methods
+
+--Static Class
+> Static means something that cannot be instantiated.
+> You cannot create an object of a static class.
+> Cannot access static members using an object.
+> Static classes cannot contain instance constructors.
+> We use the static keyword before a class to make it static.
+> Example:
+	****
+		static class ClassName
+		{
+			//static data members
+			//static methods
+		}
+	****
+
+--Static Class and Static Method
+> Below example, class and all its members are static.
+> Example:
+	****
+		public static class Calculator
+		{
+			private static int _resultStorage = 0;
+			public static string Type = "Arithmetic";
+			public static int Sum(int num1, int num2)
+			{
+				return num1 + num2;
+			}
+
+			public static void Store(int result)
+			{
+				_resultStorage = result;
+			}
+		}
+	****
+
+--Advantages of a Static Class
+> Error if you declare a member of a static class as nonstatic.
+> Creating an instance of a static class generates compile-time error.
+> Static members can be accessed directly with their class name.
+> Static keyword is used before class keyword to declare a static class.
+> Static class members are accessed by the class name followed by the member name.
+

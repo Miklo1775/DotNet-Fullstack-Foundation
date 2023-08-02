@@ -1,0 +1,11 @@
+Extension Methods
+
+--What are Extension Methods?
+> They are additional methods.
+> These methods create and add new methods to existing classes without create a new child class.
+> They are a special type of static methods that can also be called instance methods.
+> We can add extension methods in both predefined and user defined custom classes.
+> Things to consider:
+		*An extension method should be a static method.
+		*It must have this keyword associated with class name.
+		*The class name should be the first parameter in the parameter list.
