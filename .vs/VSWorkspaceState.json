@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AdvancedCSharp",
+    "\\AdvancedCSharp\\Abstract Class, Interface, and Partial Class\\polymorphismAbstractClasses",
+    "\\AdvancedCSharp\\Property, Indexer, Attributes, and Exception Handling",
+    "\\AdvancedCSharp\\Property, Indexer, Attributes, and Exception Handling\\PropsAttsExcepts"
   ],
-  "SelectedNode": "\\coreConsoleApp.sln",
+  "SelectedNode": "\\AdvancedCSharp\\Property, Indexer, Attributes, and Exception Handling\\PropsAttsExcepts\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\bin\Debug\net7.0\propertiesAttributesExceptions.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\bin\Debug\net7.0\propertiesAttributesExceptions.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\bin\Debug\net7.0\propertiesAttributesExceptions.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\bin\Debug\net7.0\propertiesAttributesExceptions.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\bin\Debug\net7.0\propertiesAttributesExceptions.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.csproj.AssemblyReference.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\refint\propertiesAttributesExceptions.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\propertiesAttributesExceptions.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\PropsAttrsExceptions\propertiesAttributesExceptions\obj\Debug\net7.0\ref\propertiesAttributesExceptions.dll
