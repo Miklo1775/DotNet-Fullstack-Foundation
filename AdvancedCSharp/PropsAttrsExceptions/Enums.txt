@@ -1,0 +1,17 @@
+Enumerations
+
+
+--What is an Enumeration/ENUM?
+> A user defined data type that has a fixed set of related values.
+> The keyword enum is used to create an enum.
+> Example:
+	****
+
+		enum Months 
+		{
+			May,
+			June,
+			July
+		}
+
+	****

@@ -1,0 +1,55 @@
+Exception Handling
+
+
+--What is Exception Handling?
+> An exception is an unexpected event that occurs during program execution.
+> Abnormally terminates the flow of the program so we need to handle those exceptions.
+> The actions to be performed in case of an occurence of an exception is not known to program.
+> In such a case, we create an exception object and call the exception handler code.
+> Responding or handling exceptions is called Exception Handling.
+
+--Exception Handler Keywords
+> try ==> Defines a try block. This block holds the code that may throw an exception. If error occurs, the error is passed into the catch block.
+> catch ==> Defines a catch block. Catches the exceptions thrown by a try block.
+> finally ==> Defines the finally block. This block holds the default code.
+> throw ==> Used to throw an exception manually.
+
+--Try-Catch Block
+> Both are used together to handle exceptions.
+> Example: 
+	****
+
+		try 
+		{
+			// Code that may throw an exception
+		}
+		catch (Exception error)
+		{
+			// code that handles or "catches" the exception
+		}
+
+	****
+
+--Try-Catch-Finally Block
+> You can use a finally block with a Try-Catch.
+> finally block is always executed whether there is an exception or not.
+> Example:
+	****
+
+		try 
+		{
+			// code that may throw an exception
+		}
+		catch
+		{
+			// code that handles the exception
+		}
+		finally
+		{
+			// this code is always executed no matter what
+		}
+
+	****
+> The finally block gets executed:
+	* After try block if no exception occurs.
+	* After catch block if exception occurs.
