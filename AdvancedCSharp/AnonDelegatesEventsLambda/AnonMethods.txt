@@ -1,0 +1,22 @@
+Anonymous Methods
+
+--What are anonymous methods?
+> A method without a name.
+> Can be defined using the delegate keyword.
+> Can be assigned to a variable of the delegate type.
+> Can access variables defined in an outer function.
+> Example: 
+	****
+
+		public delegate void Print(int value);
+
+		static void Main(string[] args)
+		{
+			Print print = delegate(int val){
+				Console.WriteLine("Inside Anonymous method. Value: {0}", val);
+			}
+			
+			print(500);
+		}
+
+	****

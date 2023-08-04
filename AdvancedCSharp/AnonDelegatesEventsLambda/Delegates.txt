@@ -1,0 +1,20 @@
+Delegates
+
+
+--What is a Delegate?
+> A delegate is a pointer or reference to a method.
+> It is object oriented, secured, and type-safe.
+> A delegate essentially holds the address of a method which can be called using that delegate.
+> For static methodds, delegate encapsulates method only.
+> For instance methods, it encapsulates both instance and methods.
+> Three steps involved while working with delegates:
+	*Delcare a delegate.
+	*Set a target method.
+	*Invoke a delegate.\
+
+--Types of Delegates
+> Single Cast Delegates:
+	*A single function or method is referred as a Delegate.
+> Multi Cast Delegates:
+	*Refers to the delegation of multiple functions of methods.
+

@@ -1,0 +1,15 @@
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\bin\Debug\net7.0\ADEL.exe
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\bin\Debug\net7.0\ADEL.deps.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\bin\Debug\net7.0\ADEL.runtimeconfig.json
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\bin\Debug\net7.0\ADEL.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\bin\Debug\net7.0\ADEL.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.AssemblyInfoInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.AssemblyInfo.cs
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.csproj.CoreCompileInputs.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\refint\ADEL.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.pdb
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.genruntimeconfig.cache
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ref\ADEL.dll
+C:\Users\Vic\Desktop\DotNet Fullstack Foundation\AdvancedCSharp\AnonDelegatesEventsLambda\ADEL\obj\Debug\net7.0\ADEL.csproj.AssemblyReference.cache

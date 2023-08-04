@@ -1,0 +1,9 @@
+Events
+
+
+--What are Events?
+> Events in C#, being a subset of delegates are defined by using... delegates.
+> An event is an encapsulated delegate.
+> To raise an event in C#, you need a publisher.
+> To receive and handle an event, you need a subscriber.
+> Usually are implemented as publisher and subscriber classes.

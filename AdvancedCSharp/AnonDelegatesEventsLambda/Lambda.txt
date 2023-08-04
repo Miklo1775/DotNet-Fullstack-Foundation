@@ -1,0 +1,21 @@
+Lambda Expressions
+
+
+--What is a Lambda Expression?
+> In C#, a lambda expression is a short block of code that accepts parameterrs and returns a value.
+> Defined as an anonymous function.
+> With lambda functions, you dont need to specify the type of the value that you input making it more flexible to use.
+> The => operator is called the lambda operator.
+> The lambda expression is divided into two parts:
+	*The left is the input and right is expression.
+> Example: 
+	****
+
+	(parameters) => lambda body
+
+	****
+
+--Types of Lambda Expressions
+> There are 2 types of lambda expressions:
+	*Expression Lambda
+	*Statement Lambda

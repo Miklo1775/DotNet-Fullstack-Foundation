@@ -1,0 +1,26 @@
+Expression Tree
+
+
+--What is an Expression Tree?
+> Expressions arranged in a tree-like data structure.
+> Each node in an expression tree is an expression.
+> In-memory representation of a lambda expression.
+> Holds the actual elements of the query, not the result of the query.
+> Expression tree makes the structure of the lambda expression transparent and explicit.
+> You can interact with the data in expression tree just as you can with any other data structure.
+> Example:
+	****
+
+	Expression<TDelegate> name = lambdaExpression;
+
+	****
+> Can be created in the following ways:
+	*Expression lambda
+	*Expression Tree API
+
+--Expression Tree Structure
+> The simple structure of an Expression<TDelegate> has four properties:
+	*Body ==> The body of the expression.
+	*Parameters ==> The params of the lambda expression.
+	*NodeType ==> The type of node in the tree.
+	*Type ==> The type of expression.

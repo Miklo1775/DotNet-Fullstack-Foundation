@@ -1,0 +1,20 @@
+Anonymous Types
+
+--What is an Anonymous Types?
+> Introduced in C# 3.0.
+> Anonymous types allow us to create an object that has read-only properties.
+> Anonymous object is an object that has no explicit type.
+> C# compiler generates type name and is accessible only for the current block scope.
+> Best for "use and throw" types.
+> We create an anonymous type by using the new keyword with an object initializer.
+> Example: 
+	****
+
+		var anonyInfo = new 
+		{
+			fname = "Chichi",
+			lname = "Cheddar"
+		}
+		Console.WriteLine("Fname: " + anonyInfo.fname);
+
+	****
