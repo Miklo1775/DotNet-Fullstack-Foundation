@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\AdvancedCSharp",
-    "\\AdvancedCSharp\\Abstract Class, Interface, and Partial Class\\polymorphismAbstractClasses",
-    "\\AdvancedCSharp\\Property, Indexer, Attributes, and Exception Handling",
-    "\\AdvancedCSharp\\Property, Indexer, Attributes, and Exception Handling\\PropsAttsExcepts"
+    "\\AdvancedCSharp\\AnonDelegatesEventsLambda"
   ],
-  "SelectedNode": "\\AdvancedCSharp\\Property, Indexer, Attributes, and Exception Handling\\PropsAttsExcepts\\Program.cs",
+  "SelectedNode": "\\AdvancedCSharp\\AnonDelegatesEventsLambda\\AnonymousType.txt",
   "PreviewInSolutionExplorer": false
 }

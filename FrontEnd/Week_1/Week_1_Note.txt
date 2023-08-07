@@ -1,0 +1,76 @@
+/*
+
+Not going to focus too much time in HTML and CSS since I have a decent proficiency with them.
+
+*/
+
+///////////////////////////////////////////////////////////////////////////////
+
+                        BASIC HTML FORMATTING TAGS
+
+///////////////////////////////////////////////////////////////////////////////
+
+> Bold ==> <b>bold</b> || <strong>bold</strong> (read by browser with verbal stress)
+> Italic ==> <i>italic</i> || <em>italic</em> (read by browser with verbal stress)
+> Underline ==> <u>underline</u>
+> Strikethrough ==> <s>strikethrough</s>
+> Inserted ==> <ins>inserted</ins>
+> Superscript ==> <sup>superscript</sup>
+> Subscript ==> <sub>subscript</sub>
+> Small ==> <small>small</small>
+> Mark ==> <mark>mark</mark>
+
+///////////////////////////////////////////////////////////////////////////////
+
+                            FORMS AND INPUT TAGS
+
+///////////////////////////////////////////////////////////////////////////////
+
+> Form ==> <form></form> ==> container for input elements.
+> Input ==> <input/> ==> {
+    *Specifies input field where user can enter data.
+    *Can be displayed in several ways depending on type attribute.
+    *One of the major components of form elements.
+    }
+> Select ==> <select><option></option></select> ==> dropdown menu.
+> Option ==> <option>Option Value</option> ==> option in select.
+
+--Common Input Attributes
+> Value
+> Placeholder
+> Readonly
+> Required
+> Name 
+> Max/Min
+
+///////////////////////////////////////////////////////////////////////////////
+
+                                iFrame
+
+///////////////////////////////////////////////////////////////////////////////
+
+> Inline frame used to embed content form another source.
+> <iframe />
+
+///////////////////////////////////////////////////////////////////////////////
+
+                            CSS Best Practices
+
+///////////////////////////////////////////////////////////////////////////////
+
+> Use external CSS files to seperate the styling from the HTML Code.
+> Consistent naming convention for classes and IDs.
+> Use CSS preprocessors like Sass or Less to make it easier to write and maintain complex style sheets.
+> Use a CSS framework such as Bootstrap or Foundation to speed up development and ensure 
+consistency across different web pages.
+
+///////////////////////////////////////////////////////////////////////////////
+
+                            Types of Simple Selector
+
+///////////////////////////////////////////////////////////////////////////////
+
+> Tag selector
+> Class selector
+
+
