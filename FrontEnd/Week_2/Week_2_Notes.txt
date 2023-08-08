@@ -1,0 +1,14 @@
+Understanding The Document Object Model
+
+--What is the DOM?
+> Programming interface for web documents.
+> Represents HTML or XML as a tree-like structure, where each node in the tree corresponds to a different part of the document.
+> We can manipulate the DOM by selecting nodes and changing their properties or adding and removing nodes altogether.
+
+--Accessing DOM ELements with JavaScript
+> Some common ways to access the DOM are:
+    *document.getElementById(id)
+    *document.getElementsByClassName(className)
+    *document.getElementsByTagName(tagName)
+    *document.querySelector(selector)
+    *document.querySelectorAll(selector)

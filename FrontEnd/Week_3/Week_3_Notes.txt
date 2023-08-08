@@ -1,0 +1,14 @@
+--Introduction to React
+> JavaScript library for building UIs.
+> Developed by Facebook in 2011 and was released as an open-source project in 2013.
+> Built on top of JavaScript and supports JSX and plain JavaScript.
+> Component based architecture.
+> Supports server-side rendering.
+
+--Virtual DOM in React
+> React creates a virtual DOM (tree-like structure) that represents UI elements.
+> React uses a process called reconiliation to compare old and new virtual DOMs.
+
+--React useEffect
+> useEffect Hook is used for executing side effects in functional components.
+> Runs after every rerender or when dependencies have changed.
