@@ -1,0 +1,32 @@
+Action Methods and Result Types
+
+
+
+--Action Methods
+> A method that responds to user action/activity.
+> Any method in a controller which has public access modifier acts as an action method.
+> Similar to normal methods but with the following restrictions:
+	*Action method must be public. It cannot be private or protected.
+	*Action method cannot be overloaded.
+	*Action method cannot be a static method.
+
+--Default Action Methods
+> Every Controller can have a default action method as per configured route in the RouteConfig.
+> By default, the Index() method is a default action method for any controller.
+> You can also change the default action name as per your requirement in the RouteConfig class.
+> Syntax:
+	****
+
+		public IActionResult Index()
+		{
+			return View();
+		}
+
+	****
+
+--Action Result
+> MVC Framework includes various Result classes, which can be returned from an action method.
+> Result classes represents different types of responses, such as HTML, file, string, JSON, etc
+> ActionResult class is a base class of all the above result classes so it can be the return type of action method that returns any result.
+> However, you can specify the appropriate result class as a return type of action method.
+> The base controller class includes the View() method along with other methods that return a particular types of result.
