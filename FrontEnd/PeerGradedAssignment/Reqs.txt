@@ -1,0 +1,4 @@
+1) Basic webpage using HTML and CSS
+2) JavaScript to Manipulate the DOM
+3) Create a simple react component
+4) Use react hooks to manage state

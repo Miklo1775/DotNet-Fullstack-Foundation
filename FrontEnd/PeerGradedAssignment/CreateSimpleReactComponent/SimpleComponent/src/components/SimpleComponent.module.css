@@ -1,0 +1,14 @@
+.simpleForm {
+  height: 80vh;
+  width: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}

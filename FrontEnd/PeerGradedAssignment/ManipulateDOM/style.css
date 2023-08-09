@@ -1,0 +1,37 @@
+* {
+  font-family: sans-serif;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.nav-name {
+  margin-left: 10px;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.main-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  height: 85vh;
+}
+
+.cat-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.gallery-image {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+}
