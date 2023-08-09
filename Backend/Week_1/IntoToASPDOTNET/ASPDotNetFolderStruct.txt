@@ -1,0 +1,7 @@
+ASP.NET Core Project Folder Structure
+
+--Overview
+> Details of the default project can be seen in the solution explorer.
+> Displays all the projects related to a single solution.
+> Project Folder structure is organized in a hierachical manner.
+> Each level representing a different aspect of the application.

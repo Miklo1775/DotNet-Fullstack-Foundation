@@ -1,0 +1,16 @@
+Intro to ASP.NET Core
+
+--What is ASP.NET Core?
+> Open-source and cross-platform framework.
+> A unified framework for building web UI and web APIs.
+> Built in dependancy injection.
+> Higher degree of compatibility with ASP.NET.
+> Perfectly suited for Docker containers.
+> Built in support for SPA with client-side frameworks such as Angular, React, and Vue.
+
+--Features of ASP.NET Core
+> Cross-platform support
+> High performant
+> Less code
+> Easy maintenance
+> Cloud based application development support

@@ -1,0 +1,29 @@
+MVC Pattern
+
+--Undersanding MVC Pattern
+> Controllers are the request handlers and returns the appropriate view to the user.
+
+--Web App Components and MVC Pattern
+> Models are the domain classes that represents the entity.
+> Views are the UI component which displays the appropriate information to the user.
+> Controller takes the request and interacts with the View and Model accordingly.
+
+--Model
+> Represents the shape of the data.
+> A class that represents the data and business logic of the application.
+> Responsible for defining the data entities, validating input, and performing database operations.
+> Used in conjunction with data access technologies such as Entity Framework, LINQ, SQ.
+
+--View
+> Views are responsible for rendering the UI of the application.
+> View display model data to the user and also allows the user to modify that data.
+> Typically defined as an HTML template that includes server-side code to render data.
+> Views can use a variety of technologies to render HTML, including Razor, ASPX, and others.
+> Client side techs such as JavaScript and CSS can be used to enhance the UI.
+
+--Controllers
+> Responsible for handling user input and updating the model and the view.
+> Component that handles the requests from the client.
+> Performs the operations on the model, and selects the right view to render the response.
+> Controller is defined as a class that inherits from the base controller class in ASP.NEY MVC.
+> Includes action methods that correspond to user requests and perform operations on the model.
