@@ -1,0 +1,15 @@
+Layouts, Sections, and View Start
+
+--Layout View
+> Layouts are like the master pages in Webforms applications.
+> Layouts define the common layout or structure of multiple views in an applicaton.
+> Allows you to define a consisten layout or structure in your application such as a header, footer, and navigation menu.
+> Used to define the structure of HTML page and may contain placeholders for the content that will be displayed by the views.
+
+--Use of Layout View
+> Most websites have the following sections:
+	*Website Header
+	*Website Footer
+	*Navigation Menus
+	*Main Content Area
+> Instead of putting all the sections in each and every view page, it is always better and advisable to put them in a layout view and then inherit that layour view in each every view where your want that consistency.

@@ -1,0 +1,38 @@
+HTML Helpers and Tag Helpers
+
+
+--HTML Helper
+> HTMLHelper class renders HTML controls in the razor view.
+> Binds model object to HTML controls to display the value of the model properties into thos controls and assigns the value of the controls to the model properties while submitting a web form.
+> Advised to use the HTMLHelpers class in razor view instead of manually adding HTML tags manually.
+> The main difference between calling the HTMLHelper methods and using HTML tags is that the HTMLHelper method is designed to make it easy to bind to view data or model data.
+> HTMLHelper Methods:
+
+*****
+|-------------------------------------------------------------------------------------|
+| Extension Method      | Strongly typed method    | HTML Control                     |
+|_______________________|__________________________|__________________________________|
+| Html.ActionLink()     | N/A				       | <a></a>                          |
+|_______________________|__________________________|__________________________________|
+| Html.TextBox()        | Html.TextBoxFor()        | <input type="textbox">           |
+|_______________________|__________________________|__________________________________|
+| Html.TextArea()       | Html.TextAreaFor()       | <input type="textarea">          |
+|_______________________|__________________________|__________________________________|
+| Html.CheckBox()       | Html.CheckBoxFor()       | <input type="checkbox">          |
+|_______________________|__________________________|__________________________________|
+| Html.RadioButton()    | Html.RadioButtonFor()    | <input type="radio">             |
+|_______________________|__________________________|__________________________________|
+| Html.DropDownList()   | Html.DropDownListFor()   | <select><option></select>        |
+|_______________________|__________________________|__________________________________|
+| Html.ListBox()        | Html.ListBoxFor()        | multi-select list box: <select>  |
+|_______________________|__________________________|__________________________________|
+| Html.Hidden()         | Html.HiddenFor()         | <input type="hidden"             |
+|_______________________|__________________________|__________________________________|
+*****
+
+--Tag Helper
+> A relatively new feature in ASP.NET MVC.
+> Enables server-side code to create and render HTML elements in Razor View.
+> Feature of the Razor View Engine.
+> C# classes which participate in view generation by creating HTML elements.
+> We can change the content of HTML Elements and add additional attributes to the HTML element.

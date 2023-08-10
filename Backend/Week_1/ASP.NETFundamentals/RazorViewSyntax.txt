@@ -1,0 +1,21 @@
+Razor View Engine and Syntax
+
+--Razor View Engine
+> Responsible for producing HTML response when invoked by Controller Action.
+> Controller Action methods returns some types of responses, which are called as Action Results.
+> The ViewResult is the ActionResult which produces the HTML Response.
+> The ViewResults are produced by the view engine.
+> When the Controller Action method invokes the view() or PartialView(), it invokes the View Engine, which produces the HTML Response.
+> The default view engine for ASP.NET Core apps.
+> It looks for Razor markup in the View File and parses it and produces the HTML response.
+> Used to generate Views that are returned to the clients browser in response to a request.
+> Powerful and flexible templating engine.
+> Easier to create dynamic web pages.
+> Enables developers to write clean and maintainable code that can be easily understood.
+
+--Razor Syntax
+> Razor is a markup syntax for embedding .NET based code into webpages.
+> The Razor syntax consists of Razor markup, C#, and HTML.
+> Files containing Razor generally have a .cshtml file extension.
+> Razor syntax is similar to the templating engines of various JS SPA frameworks such as Angular and React.
+> Razor supports C# and uses the @ symbol to transition from HTML to C#.
