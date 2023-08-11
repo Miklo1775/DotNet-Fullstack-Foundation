@@ -1,0 +1,14 @@
+Data Passing Techniques in ASP.NET
+
+
+
+--Data Passing Techniques
+> The best and most popular method to pass data to the view from the controller is through the help of model classes which are normally known as view class.
+> With interfaces, we use strongly typed views, its easy to access the object or model which needs to pass the controller.
+> Below are the objects we can use to store the value and transfer it from one place to another:
+				*ViewData
+				*ViewBag
+				*TempData
+				*Session
+				*Cookies
+				*QueryString

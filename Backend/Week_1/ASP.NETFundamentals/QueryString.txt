@@ -1,0 +1,13 @@
+Working With QueryString
+
+
+--What is QueryString?
+> A collection of charactes input to a computer or web browser.
+> A Query String is helpful when we want to transfer a value from one page to another.
+> When we need to pass content between HTML pages or aspx Web Forms.
+> A QueryString is very simple to use and follows a separating character, usually a ?.
+> Basically used for identifying data appearing after this separate symbol.
+> Syntax:
+	****
+		Request.QueryString(variable)[(index).count]
+	****

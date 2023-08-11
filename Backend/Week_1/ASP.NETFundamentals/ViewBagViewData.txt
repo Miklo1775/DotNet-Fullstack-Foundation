@@ -1,0 +1,25 @@
+View Bag and View Data
+
+
+
+--ViewBag
+> Used to transfer temporary data which is not included in the model from the controller to the view.
+> Internally, it is a dynamic type property of the ControllerBase class which is the base class of the Controller class.
+> Often used for simple scenarios where a strongly typed model is not required.
+> Example:
+		****
+			@ViewBag.Name	<====>  @ViewBag.Name = "John"
+				View					Controller
+		****
+
+--ViewData
+> ViewData is used to pass the data from the controller action method to a view and we can display this data on the view.
+> The ViewData works on the principle of key-value pairs.
+> This type of binding is called loosely binding.
+> We can pass any type of data.
+> ViewData only transfers data from controller to view, not vice-versa. Only valid during the current request.
+> Example:
+		****
+		@ViewData["Name"]   <=====>   @ViewData["Name"] = "John"
+			View							Controller
+		****

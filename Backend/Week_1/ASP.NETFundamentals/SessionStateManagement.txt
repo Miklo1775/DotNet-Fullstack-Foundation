@@ -1,0 +1,17 @@
+Session and State Management
+
+
+--Session
+> Sessions provide a way to store user-specific data across requests.
+> Is a way to persist data between requests for the same user even if they close their browser or leave the application.
+> When user visits a website, server creates a unique session ID, and sends it to the client in cookie.
+> The client then includes this session ID in subsequent requests which allows the server to associate the requests with a specific session.
+> ASP.NET Core provides a built-in ISession interface that represents a session object.
+> Example:
+	****
+		public IActionResult Index()
+		{
+			HttpContext.Session.SetString("UserName", "John");
+			return View();
+		}
+	****

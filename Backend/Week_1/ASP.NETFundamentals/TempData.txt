@@ -1,0 +1,17 @@
+TempData
+
+
+--What is TempData?
+> Used to transfer data from the view to the controller. the controller to the view, or from an action method to another action method of the same or a different controller.
+> TempData temporarily saves data and deletes it automatically after a value is recovered.
+> Unlike ViewBag and ViewData, TempData can hold the value for several successive queries.
+> TempData can be used in a couple of scenarios like:
+	*Passing Data from Controller to View.
+	*Transmitting Data from one activity to another.
+
+--Uses of TempData
+> Used for storing data between two sequential queries.
+> Similar to a session (brief), uses an interanl session to store data.
+> We can use the loop to access each key and its values sent to the server.
+> We check for NULL values to prevent execution time errors.
+> TempData is mainly used in messages like error messages or validation messages which store a timed message.
