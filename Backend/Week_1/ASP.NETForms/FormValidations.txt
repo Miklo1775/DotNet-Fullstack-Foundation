@@ -1,0 +1,10 @@
+Form Validations - Server Side and Client Side
+
+
+--What are Form Validations?
+> The process of ensuring that user input data submitted through a web form is valid, and meets certain criteria or rules.
+> Helps to ensure that user input is accurate and consistent with the expected format.
+> There are different types of form validations:
+	*Server-side form validation
+	*Client-side form validation
+	*Custom form validation

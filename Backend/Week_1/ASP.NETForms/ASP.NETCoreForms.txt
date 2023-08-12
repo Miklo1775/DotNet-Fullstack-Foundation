@@ -1,0 +1,19 @@
+ASP.NET Core Forms
+
+
+--What are Forms?
+> Forms are a key part of building web applications.
+> Allows users to submit data to the server which can be used to Create, Update, or Delete data or to perform other actions.
+> Can be created using HTML helpers which are methods that generate HTML code that be used to display and interact with forms.
+> The request is usually sent to the server as a POST request.
+
+--Weakly-Typed Forms
+> Refers to a way of handling form data where data is not explicity bound to a specific data model.
+> Instead, the form data is accessed as a collection of key-value pairs where the key represents the names of the form fields and the values represent the user-inputs.
+> The dev can access the data using the Request Object which allows the dev to read and manipulate the form data directly, without the need to create a specific data model.
+
+--Strongly-Typed Forms
+> Refers to a way of handling form data that is explicity bound to a specific data model.
+> Allows devs to define a data model that corresponds to the structure of the form data and to use model binding to automatically map the form data to the data model.
+> The developer can create a data model using a class or a structure that defines the properties and data types of the form fields.
+> The form data is automatically mapped to the properties of the data model using model binding which provides compile-time validation and reduces the risk of runtime-errors.

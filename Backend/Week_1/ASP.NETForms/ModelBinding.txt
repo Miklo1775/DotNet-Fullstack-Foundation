@@ -1,0 +1,16 @@
+Model Binding
+
+
+--What is Model Binding?
+> A mechanism that extracts the data from an HTTP request and provides them to the controller action method parameters.
+> This action method parameters may be simple types or complex types.
+> When a client makes a request to a controller action method.
+> ASP.NET Core automatically maps the data in the request to the action methods parameters using model binding.
+> Model binding is a powerful feature that can simplify your code and reduce boilerplate.
+> Example: 
+	****
+		public IActionResult UpdatePerson(Person person)
+		{
+			return View(person);
+		}
+	****
