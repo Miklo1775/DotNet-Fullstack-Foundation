@@ -1,0 +1,24 @@
+ASP.NET CORE ENV VARIABLES
+
+
+--What are ENV Variables in ASP.NET Core?
+> ASP.NET Core Environment Variables uses the variable called ASPNETCORE-ENVIRONMENT.
+> It points towards teh runtime environment.
+> The value of the variable can be anything but usually be a Production, Staging, Development.
+> The value is case insensitive on Windows and Mac OS but case sensitive on Linux.
+> The ENV variable defines the runtime environment for which the application runs.
+> They are mainly used to specify the Environment application executing,enabling the application to configure it.
+> The environments: 
+	*Development {
+		> This process will be used during the application development.
+		> While using VS, the setting will be denoted in porject's debug, like IIS Express.
+	}
+
+	*Staging {
+		> It is pre-production and used for testing before deployment.
+	}
+
+	*Production {
+		> The production environment is used while the application executes during the live process where the end user works on it.
+		> Should be used to maximize security.
+	}

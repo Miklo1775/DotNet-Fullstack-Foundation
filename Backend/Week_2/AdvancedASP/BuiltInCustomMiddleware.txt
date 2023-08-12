@@ -1,0 +1,10 @@
+Built-in And Custom Middleware
+
+
+--What is Built-in Middleware
+> Middleware that is built into ASP.NET Core
+
+--What is Custom Middleware?
+> Custom middleware is like any other .NET class with the invoke() method.
+> However, in order to execute next middleware in a sequence, it should have RequestDelegate type parameter in the constructor.
+> Custom middleware in .NET Core allows developers to execute code before or after request response cycle.

@@ -1,0 +1,27 @@
+Middleware Request Pipeline
+
+
+--What is the Middleware Request Pipeline?
+> Request are processed beginning with request and ending with the response.
+> The pipeline specifies how the application should respond to HTTP Requests.
+> The request arriving from the browser goes throught the pipeline and back.
+> The individual components that comprise the pipeline are called Middleware.
+
+--Some types of Middleware
+> Authentication
+> Static File
+> Routing
+> Session
+> Exception Handling
+> Cross-Origin Resource Sharing (CORS)
+> HTTPS Redirection
+
+--How the Middleware Request Pipeline Works
+> The HTTP request arrives at the application.
+> The Kestrel web server picks up the requests and creates the httpContext and passes it to the first middleware in the requset pipeline.
+> The first middleware then takes over, process request and passes it to the next middleware.
+> This process goes on until the last middleware is reached.
+> The last one returns the request back to the previous middleware, terminating the request pipeline.
+> Finally, the response reaches kestrel, which returns the response back to the client.
+> Any of the middleware in the request pipeline can terminate the request pipeline by simply not passing the request to the next middleware.
+

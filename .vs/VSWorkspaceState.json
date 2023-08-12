@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Backend",
+    "\\Backend\\Week_2",
+    "\\Backend\\Week_2\\AdvancedASP",
+    "\\Backend\\Week_2\\AdvancedASP\\coreAdvancedASP"
   ],
-  "SelectedNode": "\\coreASPNETForms.sln",
+  "SelectedNode": "\\Backend\\Week_2\\AdvancedASP\\BuiltInCustomMiddleware.txt",
   "PreviewInSolutionExplorer": false
 }

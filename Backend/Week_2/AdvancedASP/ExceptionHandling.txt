@@ -1,0 +1,17 @@
+Exception Handling in .NET Core
+
+
+--What is exception handling in .NET core?
+> Exception handling is one of the more important concept in application development.
+> There are a couple of ways to handle exceptions in ASP.NET Core:
+		*Exception Handling with Try-Catch block.
+		*Global Exception Handling with Custom Middleware.
+
+--Exception Handling with Try-Catch block
+> The try block contains the code that may throw an exception and the catch block is the code that handles the exception if one occurs.
+> The finally block is an optional block and runs whether there is an exception or not.
+
+--Exception Handling with Custom Middleware
+> Good and effective approach to handling the exception at the global level.
+> The benefit of this approach is that we can catch all exceptions in one place and don't need to use a try-catch block in every action to catch errors.
+> This is where we need to use Custom Middleware.

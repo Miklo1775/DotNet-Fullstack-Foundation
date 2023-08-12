@@ -1,0 +1,7 @@
+Dependancy Injection in .NET Core
+
+--What is Dependancy Injection?
+> DI is used to achieve loosely coupling between objects so that applications can be maintained in an easy manner.
+> DotNet runtime engine automatically injects objects of dependency classes.
+> It injects mainly through the constructor of the controllers which makes the job of the developer much easier.
+> The concept of DI arises from a principle of software design called Dependency Inversion Principle.
