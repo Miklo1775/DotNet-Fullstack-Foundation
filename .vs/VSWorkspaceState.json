@@ -4,8 +4,9 @@
     "\\Backend",
     "\\Backend\\Week_2",
     "\\Backend\\Week_2\\AdvancedASP",
-    "\\Backend\\Week_2\\AdvancedASP\\coreAdvancedASP"
+    "\\Backend\\Week_2\\AdvancedASP\\coreAdvancedASP\\Controllers",
+    "\\Backend\\Week_2\\AdvancedASP\\coreAdvancedASP\\Data"
   ],
-  "SelectedNode": "\\Backend\\Week_2\\AdvancedASP\\BuiltInCustomMiddleware.txt",
+  "SelectedNode": "\\Backend\\Week_2\\AdvancedASP\\ExceptionHandling.txt",
   "PreviewInSolutionExplorer": false
 }
