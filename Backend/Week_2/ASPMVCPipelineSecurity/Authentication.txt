@@ -1,0 +1,33 @@
+Authentication in a Web Application
+
+
+--What is Authentication?
+> Verifying the identity of a user.
+> You might only want to provide the content of your application to an authorized user.
+> In other words, its a process of validating someone against some other data source.
+
+--Types of Authentication
+> Windows Authentication
+> Forms Authentication
+> Passport Authentication
+
+--Windows Authentication
+> Default provider for ASP.NET.
+> Authenticates the users based on users Windows accounts.
+> Windows authentication relies on the IIS to do the authentication.
+> IIS can be configured so that only users on the Windows domain can log in.
+> If user attempts to access page and not authenticated, then a dialogue box appears that tells users to reenter their credentials.
+> These credentials is then passed to the webserver and checked against the list of uers in domain.
+
+--Forms Authentication
+> Provides a way to handle authentication using custom logic within an application.
+> When the user requests a page for the application, asp.net checks for the presence of a special session cookie.
+> If cookie is present, asp.net assumes that the user is authenticated and process request.
+> If cookie is not present, asp.net redirects the user to a web form you provide.
+> When user is authenticated. asp.net sets a property which creates the special cookie for subsequent requests.
+
+--Passport Authentication
+> Allows using Microsoft's passport service to authenticate users of your application.
+> If user has signed up with a passport and authentication mode is set to passport, then authentication duties are offloaded to the passport servers.
+> Uses an ecrypted cookie mechanism to indicate the authenticated users.
+> If user has already signed into passports when visiting the site, then they are considered authenticated to asp.net, otherwise they will be redirected to the passport servers log in.

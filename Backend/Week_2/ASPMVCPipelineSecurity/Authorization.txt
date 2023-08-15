@@ -1,0 +1,11 @@
+Authorization in Web Application
+
+--What is Authorization?
+> The process of checking whether user has access to resources they requested.
+> In ASP.NET, there is two forms of authorization available:
+	*File Authorization
+		=> Performed by the FileAuthorizationModule.
+		=> Uses Control List of web page to resolve whether a user should have access or not.
+		=> ACL permissions are confirmed of the user's windows identity.
+	*URL Authorization
+		=> In config file, you can specify the authorization rules for various directories or files using <authorization> element.
