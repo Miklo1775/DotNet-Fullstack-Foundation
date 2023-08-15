@@ -1,0 +1,36 @@
+Introduction to Entity Framework Core as ORM
+
+--What is Object Relational Mapping?
+> ORM is a way to align programming code with database structures.
+> ORM uses metadata descriptors to create a layer between the programming language and a relational database.
+> Connects with ORM as OOP code and simplifies the interaction between relational databases and OOP languages.
+
+--How ORM Works?
+> The entire methodology followed by ORMs is dependent on the OOP paradigm.
+> ORMs generate objects which map to tables in the database virtually.
+> Once these objects are up, then coders can easily work to retrieve, manipulate or delete any field from the table without paying much attention to language specifically.
+> Supports writing complex SQL queries in a simpler way.
+
+--Intro to EFC
+> ORM framework for .NET Core.
+> Lightweight and extensible version of Entity Framework.
+> Enables working with databases using .NET objects.
+> Provides a set of APIs for querying and manipulating data in relational databases.
+> Supports a variety of relational databases and NoSQL databases.
+
+--Domain Classes
+> In our application, we usually write classes like Employee, Customer, Member, and Courses for CRUD operations.
+> Using regular C# classes, these are known as Domain Classes.
+> Without an ORM, it will take a lot of code to implement CRUD operations or map data after receiving from the database.
+> In EFC, domain classes can be used in Code First Approach and DB First Approach.
+> DB First Approach has limited access to EF Core.
+
+--Types of EF Core
+> Code First Approach works based on Domain Driven Design:
+	*Create Domain Classes
+	*Create DB Context class derived from EFC Db context classes.
+	*EFC creates DB and Tables using a default configuration.
+	*You can change the EFC default configuration.
+> Database First Approach
+	*The DB First Approach will help us to create domain classes and DB Context classes from an existing DB using EFC.
+	*If a DB already exists, then the recommended approach is to work with an ORM.

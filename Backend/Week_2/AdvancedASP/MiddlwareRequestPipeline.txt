@@ -1,4 +1,4 @@
-Middleware Request Pipeline
+Middleware Request Pipeline and Types
 
 
 --What is the Middleware Request Pipeline?
