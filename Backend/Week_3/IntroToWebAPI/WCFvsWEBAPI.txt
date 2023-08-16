@@ -1,0 +1,29 @@
+WCF vs. Web API
+
+--WCF
+> Design Focus:
+	*Service-oriented architecture.
+> Protocol Support:
+	*Supports a wide range of protocols.
+> Data Formats:
+	*Supports multiple data formats.
+> Hosting: 
+	*Can be hosted in IIS, Windows Services, etc.
+> Performance:
+	*Lower Performance due to addintional layers.
+> Security:
+	*Provides strong security features.
+
+--Web API
+> Design Focus:
+	*Representational State Transfer.
+> Protocol Formats:
+	*Primarily used HTTP(S) and RESTful conventions.
+> Data Formats:
+	*Supports JSON and XML.
+> Hosting:
+	*Can be hosted in IIS, self-hosted, or in Azure.
+> Performance:
+	*Higher performance due to lightweight architecture.
+> Security: 
+	*Provides security through HTTPS and other protocols.

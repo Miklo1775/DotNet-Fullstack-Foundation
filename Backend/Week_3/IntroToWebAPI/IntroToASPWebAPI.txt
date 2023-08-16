@@ -1,0 +1,22 @@
+Introduction to ASP.NET Web API
+
+--What is an API and Web API?
+> API stands for Application Programming Interface.
+> ASP.NET Web API is a framework for building Web APIs i.i HTTP based service on top of .NET Framework.
+> Most common usecase of using Web API is building RESTful services.
+> These services can then be consumed by a broad range of clients like:
+	*Browsers
+	*Mobile Applications
+	*Desktop Applications
+	*IOT's
+
+--Features of ASP.NET Web API
+> Very similar to ASP.NET MVC
+> Contains similar features as MVC like:
+	*Routing
+	*Controllers
+	*Action Results
+	*Filter
+	*Model, etc
+> Stand alone services can be developed using the Web API.
+> ASP.NET Web API Framework is widely used to develop RESTful services.

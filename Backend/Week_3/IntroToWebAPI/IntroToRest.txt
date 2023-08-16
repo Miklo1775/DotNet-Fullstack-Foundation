@@ -1,0 +1,26 @@
+Introduction to REST
+
+
+--What is REST?
+> REST stands for REpresentational State Transfer.
+> REST is an architectural style, not a protocol.
+> Used for building scalable and efficient web services that can be accessed over the internet.
+> RESTful web services are based on the HTTP protocol.
+> RESTful web service exposes a set of resources or objects that can be accessed using standard HTTP methods such as GET, POST, PUT, and DELETE.
+
+--Advantages of REST
+> Consumes less bandwidth and resource.
+> RESTful web services can be executed in any platform.
+> RESTful web services can use SOAP web services as the implementation.
+> RESTful web service permits different data format such as plain text, html, xml, and JSON.
+
+--RESTful Architecture
+> Division of State and Functionality
+	*State and Functionality are divided into distributed resources.
+	*This is because every resource has to be accessible vie normal HTTP commands.
+	*That means a user should be able to issue the GET request to get a file, POST or PUT request to put a file on the server, or DELETE request to delete a file from the server.
+> Stateless, Layered, Caching-support, Client/Server Architecture
+	*A type of architecture where the web browser acts as the client and the web server acts a server hosting the application, is called a client/server architecture.
+	*The state of the application should not be maintained by REST.
+	*The architecture should be layered, meaning that there can be intermediate servers between the client and the end server.
+	*Should also be able to implement a well managed caching mechanism.
