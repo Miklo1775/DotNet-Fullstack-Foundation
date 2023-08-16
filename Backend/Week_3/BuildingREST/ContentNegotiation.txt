@@ -1,0 +1,13 @@
+Content Negotiation
+
+
+--What is Content Negotiation?
+> Whenever we consume an API, we receive data in either JSON or XML or plain text or your own custom format.
+> This is simply Content Negotiation.
+> Depending on the Accept header value in the request, the server sends the response.
+
+--How Content Negotiation Works?
+> There are two main headers which hold the responsibility of content negotiation:
+	*Content-Type
+	*Accept
+> When a requester sends a service request, the Content-Type tells the responder the formet he will receive the data whereas the Accept header tells in which format the requester requires the data.

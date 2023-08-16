@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\coreWEBAPIClient.props" />
+</Project>

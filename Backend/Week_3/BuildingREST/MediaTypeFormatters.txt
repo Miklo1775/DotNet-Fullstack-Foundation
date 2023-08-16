@@ -1,0 +1,5 @@
+Media-Type Formatters 
+
+
+--What are Media-Type Formatters?
+> Are the classes responsible for serializing request/response data so that the Web API can understand the request data format and send data in the format which client expects.

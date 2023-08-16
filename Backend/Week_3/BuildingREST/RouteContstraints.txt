@@ -1,0 +1,8 @@
+Route Constraints
+
+
+--What are Route Constraints?
+> Route constraints let you restrict how the parameters in the route template are matched.
+> It helps to filter out the input parameter and action methid it can accept.
+> For example, if the URL Parameter is restricted to have th int value, the route engine will match the controller action having integer value in the parameter or restrict it.
+> There are several built in route constraints that can be used.

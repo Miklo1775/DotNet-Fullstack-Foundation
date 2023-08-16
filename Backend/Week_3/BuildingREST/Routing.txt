@@ -1,0 +1,33 @@
+Routing - Convention and Attribute Routing
+
+
+--What is Convention Routing?
+> Used for defining routes based on conventions and defaults rather than explicitly defining each route.
+> Developers define a set of conventions that are used to generate routes for different types of controllers and actions.
+> Provides a flexible and simple way to define routes in an ASP.NET Core application.
+> URL pattern is generated based on the names of the controller and action methods.
+> Example:
+	*****
+		app.useMvc(routes => 
+		{
+			routes.MapRoute(
+				name: "default",
+				template: "{controller}/{action}/{id}",
+				defaults: new {controller = "Home", action = "Index"}
+			);
+		})
+	*****
+
+--What is Attribute Routing?
+> Technique used for defining routes directly in the controller using attributes.
+> Devs can specify the URL pattern for a particular action method using attributes instead of relying on conventions or explicit route definitions.
+> In attribute routing, [Route] is used to specify the URL pattern for an action method.
+> By specifying the route directly in the controller code, developers can have fine-grained control over the URL patterns for each action method.
+> Example:
+	*****
+		[Route("products/{id}")]
+		public IActionResult GetProduct(int id)
+		{
+			//code to retrieve product by id
+		}
+	*****

@@ -1,0 +1,8 @@
+Testing Web API using Postman
+
+--What is Postman?
+> Most powerful HTTP Client that can be used for API Testing.
+> Provides a user friendly interface for developers to create, test, and document APIs.
+> Used to send HTTP requests to web servers and receive responses.
+> Supports various HHTP request methods such as GET, POST, PUT, DELETE, and others.
+> Developers can test the functionality and performance of APIs and diagnose any issues with them.
