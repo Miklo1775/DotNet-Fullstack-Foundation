@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Backend",
+    "\\Backend\\Week_3",
+    "\\Backend\\Week_3\\REACTASP",
+    "\\Backend\\Week_3\\REACTASP\\WebAPIWithREACT",
+    "\\Backend\\Week_3\\REACTASP\\WebAPIWithREACT\\ClientApp",
+    "\\Backend\\Week_3\\REACTASP\\WebAPIWithREACT\\ClientApp\\src"
   ],
-  "SelectedNode": "\\WebAPIWithREACT.sln",
+  "SelectedNode": "\\Backend\\Week_3\\REACTASP\\WebAPIWithREACT\\ClientApp\\src\\AppRoutes.js",
   "PreviewInSolutionExplorer": false
 }

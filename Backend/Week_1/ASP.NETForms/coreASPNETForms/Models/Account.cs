@@ -20,5 +20,7 @@ namespace coreASPNETForms.Models
         public string? Email { get; set; }
         [Url]
         public string? Website { get; set; }
+
+      
     }
 }
